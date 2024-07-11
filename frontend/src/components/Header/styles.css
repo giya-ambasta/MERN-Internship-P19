@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Import the Pacifico font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* Apply the Pacifico font to the elements with the font-pacifico class */
+.font-pacifico {
+  font-family: 'Pacifico', cursive;
+}
+
+.font-poppins {
+    font-family: 'Poppins', cursive;
+  }
